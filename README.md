@@ -1,1 +1,1 @@
-# ReactNativeSimplePlayer
+# ReactNative simple Youtube video player
